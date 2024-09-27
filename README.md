@@ -1,3 +1,6 @@
+# New Xlsx-Loader
+https://github.com/NanameHacha/html-excel-loader
+
 # Xlsx-Loader
 Load xlsx files directly in HTML.
 
